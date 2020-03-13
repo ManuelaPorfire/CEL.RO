@@ -1,2 +1,2 @@
-# CEL.RO
-Proiect automatizare Selenium C#
+# Proiect automatizare Selenium C#
+
